@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player_mode">
+        <item>顺序播放</item>
+        <item>随机播放</item>
+        <item>单曲循环</item>
+        <item>列表循环</item>
+    </string-array>
+    <string-array name="list_tab_items">
+        <item >本地音乐</item>
+        <item >网络音乐</item>
+        <item >下载管理</item>
+    </string-array>
+    <string name="app_name">音乐一点通</string>
+    
+    <string name="scan_title">扫描歌曲</string>
+    <string name="btn_scan_ok">扫描歌曲</string>
+    <string name="btn_scan_add">添加目录</string>
+    
+    <string name="scan_directory_title">添加扫描目录</string>
+    <string name="btn_scan_directory_goup"> ↑ 返回上一级</string>
+    <string name="btn_san_directory_add">添加</string>
+    <string name="btn_san_directory_back">返回</string>
+    
+    <string name="btn_list_random_music">随机播放</string>
+    
+    <string name="skinsetting_title">皮肤设置</string>
+    <string name="systemsetting_title">系统设置</string>
+    <string name="about_title">关于作者</string>
+    <string name="exit_title">退出</string>
+    <string name="brightness_title">正常模式</string>
+    <string name="darkness_title">夜间模式</string>
+    <string name="sleep_title">定时关闭</string>
+    
+    <string name="about_content">本产品只作为软件测试，并无商业用途。\n大部分图片资源版权归属于其他同类软件版权所用。\n与作者无关，在此忠心谢谢了!\n如需要追究版权，请先联系作者，会做及时修改!\nwww.javaapk.com测试</string>
+    
+    <string name="appwidget_labelname">音乐一点通(1x4)</string>
+</resources>
